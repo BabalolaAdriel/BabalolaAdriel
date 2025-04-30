@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adriel Babalola</h1>
 <h3 align="center">AI Engineer • Full Stack Developer • Mechatronics Engineering Student </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Crafting+AI+Agents+for+the+Future;Building+scalable+apps+with+JS+%7C+Node.js+%7C+n8n+%7C+Python;Passionate+about+space,+automation,+and+climate-tech." alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Crafting+AI+Agents+for+teh+Future;Building+scalable+apps+with+JS+%7C+Node.js+%7C+n8n+%7C+Python;Passionate+about+space,+automation,+and+climate-tech." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Adriel Babalola**, a 16-year-old innovator from Nigeria 🇳🇬 passionate about building agentic AI systems, automating workflows, and developing web apps that make a real impact.
+I'm **Adriel Babalola**, an 18-year-old innovator from Nigeria 🇳🇬 passionate about building agentic AI systems, automating workflows, and developing web apps that make a real impact.
 
 I dream of working with **NASA or SpaceX**, and I’m actively exploring **mechatronics**, **AI**, **climate tech**, and **automation**.
 
