@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adriel Babalola</h1>
 <h3 align="center">AI Engineer • Full Stack Developer • Mechatronics Engineering Student </h3>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Crafting+AI+Agents+for+teh+Future;Building+scalable+apps+with+JS+%7C+Node.js+%7C+n8n+%7C+Python;Passionate+about+space,+automation,+and+climate-tech." alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
